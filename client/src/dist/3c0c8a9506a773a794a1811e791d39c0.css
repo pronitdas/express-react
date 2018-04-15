@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.btn-custom {
+  background-color: #4197D5;
+  color: white;
+}
+.btn-custom:hover {
+  background-color: #4197D5;
+  color: white;
+  box-shadow: 0 0 6px #4197D5;
+  -moz-box-shadow: 0 0 6px #4197D5;
+  -o-box-shadow: 0 0 6px #4197D5;
+  -ms-box-shadow: 0 0 6px #4197D5;
+  -webkit-box-shadow: 0 0 6px #4197D5;
+}.App {
+  text-align: center;
+  background-color: azure;
+}
+
+.App-header {
+  background-color: #222;
+  height: 40px;
+  padding: 1    0px;
+  color: white;
+}
+
+.App-Body {
+  background-color: whitesmoke;
+  border-radius: 2%;
+  font-size: 1.5em;
+  height: 80vh;
+  width: 70vw;
+  padding: 20px;
+  margin: 0px auto;
+}
+
+.App-intro {
+  font-size: large;
+}
+

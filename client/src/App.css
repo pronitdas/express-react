@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: azure;
+}
+
+.App-header {
+  background-color: #222;
+  height: 40px;
+  padding: 1    0px;
+  color: white;
+}
+
+.App-Body {
+  background-color: whitesmoke;
+  border-radius: 2%;
+  font-size: 1.5em;
+  height: 80vh;
+  width: 70vw;
+  padding: 20px;
+  margin: 0px auto;
+}
+
+.App-intro {
+  font-size: large;
+}
+

@@ -1,0 +1,33 @@
+{
+  "name": "OcD-Card",
+  "version": "1.0.0",
+  "description": "React with Node Express Backend",
+  "author": {
+    "name": "Pronit Das",
+    "email": "pronit.dev@gmail.com",
+    "url": "https://esausilva.com"
+  },
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-restify-mongoose": "^4.3.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.14",
+    "restify": "^7.1.1"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.1"
+  },
+  "bugs": {
+    "url": "https://github.com/esausilva/example-create-react-app-express/issues"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "create-react-app"
+  ]
+}

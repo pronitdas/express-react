@@ -5,7 +5,6 @@
   "author": {
     "name": "Pronit Das",
     "email": "pronit.dev@gmail.com",
-    "url": "https://esausilva.com"
   },
   "scripts": {
     "client": "cd client && npm start",
@@ -21,9 +20,6 @@
   },
   "devDependencies": {
     "concurrently": "^3.5.1"
-  },
-  "bugs": {
-    "url": "https://github.com/esausilva/example-create-react-app-express/issues"
   },
   "keywords": [
     "node",
